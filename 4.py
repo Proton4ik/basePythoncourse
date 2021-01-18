@@ -15,19 +15,3 @@ with open("4.txt", "r", encoding = "utf-8") as f_obj:
         with open("4_result.txt", "a", encoding="utf-8") as f_obj2:
             print(result, file = f_obj2)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
