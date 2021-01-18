@@ -12,11 +12,3 @@ with open("3.txt", "r", encoding = "utf-8") as f_obj:
 average_salary = sum_salary / len(content)
 print("Средний доход сотрудников равен {:.2f}" .format(average_salary))
 
-
-
-
-
-
-
-
-
