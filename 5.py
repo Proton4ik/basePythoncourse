@@ -10,20 +10,3 @@ with open("5.txt", "w", encoding = "utf-8") as f_obj:
     print(user_num, file = f_obj)
 print("Сумма всех чисел введеных чисел в файл равна: ", result)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
