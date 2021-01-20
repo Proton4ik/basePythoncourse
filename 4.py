@@ -60,3 +60,4 @@ ford = PoliceCar(50, "blue", "Ford", True)
 print(ford.is_police)
 kamaz = WorkCar(40, "yellow", "KAMAZ", False)
 kamaz.show_speed()
+
