@@ -20,3 +20,4 @@ worker1 = Position("Леша", "Lesha", "Proger", 10000, 5000)
 print(worker1.name, worker1.surname, worker1.position, worker1._income)
 worker1.get_full_name()
 worker1.get_total_income()
+
