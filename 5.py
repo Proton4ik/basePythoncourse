@@ -33,3 +33,4 @@ pencil = Pencil('карандаш')
 pencil.draw()
 handle = Handle('маркер')
 handle.draw()
+
