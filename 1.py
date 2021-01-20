@@ -44,3 +44,4 @@ class TrafficLight:
 
 light_switcher = TrafficLight()
 light_switcher.running()
+
