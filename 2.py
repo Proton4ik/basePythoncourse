@@ -13,3 +13,4 @@ length_road = float(input("Введите длину дороги в метра�
 width_road = float(input("Введите ширину дороги в метрах: "))
 first_road = Road(length_road, width_road)
 first_road.count()
+
